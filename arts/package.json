@@ -1,0 +1,17 @@
+{
+  "name": "arts",
+  "version": "1.0.0",
+  "description": "Contains arts packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yay"
+  ],
+  "author": "Shruti",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
